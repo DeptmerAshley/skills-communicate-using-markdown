@@ -6,3 +6,6 @@ int main() {
   cout << "Hello world!";
 }
 ```
+- [ ] Make one checkbox
+- [ ] Make another checkbox
+- [ ] here is a third
